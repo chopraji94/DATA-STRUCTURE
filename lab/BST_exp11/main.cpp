@@ -133,6 +133,7 @@ public:
             else
             {
                 cout<<"Not Found\n";
+                break;
             }
         }
     }
